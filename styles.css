@@ -172,6 +172,24 @@ body{
     color: darkslategray;
     font-size: 20px;
 }
+.slide {
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+    margin: 0 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+.slide:hover{
+    background-color: #F6B400;
+}
+.move{
+    cursor: progress;
+    font-size: 80px;
+    color: #F6B400;
+}
 .check1 {
     height: 500px;
     position: relative;
