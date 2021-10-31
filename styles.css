@@ -161,8 +161,28 @@ body{
 }
 .doubled h1{
     margin-left: 100px;
-    padding-top: 300px;
+    padding-top: 200px;
+    font-size: 50px;
 }
 .doubled span{
     color: #F6B400;
+}
+.doubled p{
+    margin-left: 100px;
+    color: darkslategray;
+    font-size: 20px;
+}
+.check1 {
+    height: 500px;
+    position: relative;
+    float: right;
+    margin-top: -420px;
+    margin-right: 250px;
+}
+.check2 {
+    height: 500px;
+    position: relative;
+    float: right;
+    margin-top: -300px;
+    margin-right: 100px;
 }
