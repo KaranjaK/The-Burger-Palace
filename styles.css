@@ -244,14 +244,53 @@ body{
 }
 .footer{
     height: 300px;
+    
 }
 .footer-nav{
+    position: relative;
+    display:flex;
+    margin-left: 40px;
+    margin-top: 60px;    
+}
+.footer-nav1{
     font-size: 50px;
     position: relative;
     display:flex;
     align-items: center;
-    margin-left: 10px;
+    margin-left: 40px;
+    margin-top: 60px;
 }
-.footer-nav span{
+.footer-nav1 span{
     color: #F6B400;
+}
+.footer-nav2{
+    margin-left: 60px;
+}
+.footer-nav2 h2{
+    margin-bottom: -20px;
+}
+.footer-nav2 ul{
+    list-style-type: none;
+    padding: 5px;
+}
+.subscribe{
+    margin-left: 300px;
+}
+.subscribe input{
+    height: 47px;
+    width: 300px;
+    border-radius: 10px;
+    border-width: 1px;
+}
+.subscribe button{
+    border: none;
+    padding: 15px 30px 15px 30px;
+    float: right;
+    margin-right: 30px;
+    background-color: #F6B400;
+}
+.subscribe a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
 }
