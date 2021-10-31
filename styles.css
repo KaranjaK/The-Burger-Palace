@@ -208,4 +208,33 @@ body{
     width: 100%;
     height: 1000px;
     background-color: #F6B400;
+    font-size: 20px;
+    margin-top: -30px;
+    padding: 0;
+    position: relative;
+}
+.discover h1{
+    margin-left: 100px;
+    padding-top: 30%;
+    font-size: 50px;
+}
+.store{
+    margin-left: 50px;
+}
+.phone1{
+    height: 500px;
+    position: relative;
+    float: right;
+    margin-top: -420px;
+    margin-right: 100px;
+    box-shadow: 3px 3px 6px 3px;
+    
+}
+.phone2{
+    height: 500px;
+    position: relative;
+    float: right;
+    margin-top: -420px;
+    margin-right: 100px;
+    box-shadow: 3px 3px 6px 3px;
 }
