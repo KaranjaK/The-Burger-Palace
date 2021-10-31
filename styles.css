@@ -26,8 +26,11 @@ span{
     float: left;
     margin-left: 50px;
 }
-.nav-tab a:hover{
-    text-decoration: underline #F6B400 5px;
+.nav-tab hr{
+    height: 15px;
+    border: none;
+    background: #F6B400;
+    width: 60px;
 }
 .intro{
     margin-left: 50px;
