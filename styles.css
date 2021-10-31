@@ -206,7 +206,7 @@ body{
 }
 .discover{
     width: 100%;
-    height: 1000px;
+    height: 900px;
     background-color: #F6B400;
     font-size: 20px;
     margin-top: -30px;
@@ -218,8 +218,8 @@ body{
     padding-top: 30%;
     font-size: 50px;
 }
-.store{
-    margin-left: 50px;
+.store1{
+    padding-left: 150px;
 }
 .phone1{
     height: 500px;
@@ -229,16 +229,16 @@ body{
     margin-right: 100px;
     background-color: white;
     border-radius: 30px;
-    box-shadow: 3px 3px 6px 3px;
+    box-shadow: 0 30px 150px;
     
 }
 .phone2{
     height: 500px;
     position: relative;
-    float: right;
+    float: left;
     margin-top: -420px;
-    margin-right: 100px;
+    margin-left: 680px;
     background-color: white;
     border-radius: 30px;
-    box-shadow: 3px 3px 6px 3px;
+    box-shadow: -5px 30px 150px;
 }
