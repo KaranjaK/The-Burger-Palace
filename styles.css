@@ -98,8 +98,9 @@ body{
 }
 .menu {
     width: 100%;
-    height: 700px;
+    height: 1300px;
     margin-top: 200px;
+    position: relative;
 }
 .menu h1{
     text-align: center;
@@ -111,6 +112,9 @@ body{
     background: #F6B400;
     width: 80px;
 }
+.menu span{
+    color: #F6B400;
+}
 .burger-pics{
     align-content: center;
     width: 310px;
@@ -121,6 +125,12 @@ body{
     margin-top: 50px;
     text-align: center;
     box-shadow: 3px 3px 6px 3px rgb(222, 222, 228);
+}
+.slant{
+   background-color: #F6B400;
+   width: 50px;
+   float: right;
+   transform: rotate(45deg);
 }
 .burger-pics img{
     height: 200px;
@@ -139,7 +149,20 @@ body{
     padding: 15px 30px 15px 30px;
     float: right;
     margin-right: 30px;
+    background-color: #E1EBE6;
 }
 .burger-pics span{
     color: black;
+}
+.doubled{
+    background-color: ghostwhite;
+    width: 100%;
+    height: 700px;
+}
+.doubled h1{
+    margin-left: 100px;
+    padding-top: 300px;
+}
+.doubled span{
+    color: #F6B400;
 }
