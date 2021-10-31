@@ -41,7 +41,7 @@ span{
 .intro p{
     color: darkslategray;
 }
-button{
+.intro button{
     background-color: #F6B400;    
     padding: 15px 25px;
     margin: 80px 40px;
@@ -89,7 +89,7 @@ button{
     margin-top: 220px;
     text-align: center;
 }
-.material-icons{
+.delivery .material-icons{
     color: #F6B400;
 
 }
@@ -99,7 +99,7 @@ button{
 .menu {
     width: 100%;
     height: 700px;
-    margin-top: 30px;
+    margin-top: 200px;
 }
 .menu h1{
     text-align: center;
@@ -110,4 +110,33 @@ button{
     border: none;
     background: #F6B400;
     width: 80px;
+}
+.burger-pics{
+    align-content: center;
+    width: 300px;
+    height: 530px;
+    float: left;
+    border-radius: 40px;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+    box-shadow: 3px 3px 6px 3px rgb(222, 222, 228);
+}
+.burger-pics img{
+    height: 200px;
+    margin-top: 40px;
+}
+.burger-pics h1{
+    color: brown;
+}
+.burger-pics h3{
+    float: left;
+    margin-left: 30px;
+}
+.burger-pics button{
+    border: none;
+    border-radius: 20px;
+    padding: 15px 30px 15px 30px;
+    float: right;
+    margin-right: 30px;
 }
