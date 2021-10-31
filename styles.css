@@ -227,6 +227,8 @@ body{
     float: right;
     margin-top: -420px;
     margin-right: 100px;
+    background-color: white;
+    border-radius: 30px;
     box-shadow: 3px 3px 6px 3px;
     
 }
@@ -236,5 +238,7 @@ body{
     float: right;
     margin-top: -420px;
     margin-right: 100px;
+    background-color: white;
+    border-radius: 30px;
     box-shadow: 3px 3px 6px 3px;
 }
