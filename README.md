@@ -2,7 +2,7 @@
 # Author: Kelvin Karanja Irungu 
 # Description: This is a single web-page representing the home page of a Burger Palace Website. It is designed using HTML 5 for structure and CSS for styling. The projects also incorporates images and icons.
 # Project setup: The project is a webpage. It can run on any browser. 
-# GitHub Pages: 
+# GitHub Pages: https://karanjak.github.io/The-Burger-Palace/
 # Copyright and Licence Information
                                Apache License
                            Version 2.0, January 2004
