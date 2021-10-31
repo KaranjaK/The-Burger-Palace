@@ -294,3 +294,11 @@ body{
     color: white;
     font-size: 20px;
 }
+.footer-credit{
+    font-size: 15px;
+    position: relative;
+    display:flex;
+    margin-left: 40px;
+    margin-top: 40px;  
+    align-items: center;
+}   
