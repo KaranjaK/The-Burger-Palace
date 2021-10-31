@@ -244,7 +244,9 @@ body{
 }
 .footer{
     height: 300px;
-    
+    background-color: ghostwhite;
+    width: 100%;
+    margin-top: -60px;    
 }
 .footer-nav{
     position: relative;
@@ -275,6 +277,7 @@ body{
 }
 .subscribe{
     margin-left: 300px;
+    margin-top: 50px;
 }
 .subscribe input{
     height: 47px;
@@ -298,7 +301,16 @@ body{
     font-size: 15px;
     position: relative;
     display:flex;
-    margin-left: 40px;
-    margin-top: 40px;  
+    margin-top: 5px;
     align-items: center;
 }   
+.copyright{
+    margin-left: 90px;
+}
+.social{
+    margin-left: 200px;
+    color: grey;
+}
+.design{
+    margin-left: 450px;
+}
