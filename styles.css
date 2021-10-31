@@ -1,5 +1,5 @@
 body{
-    font-family: Poppins;
+    font-family: 'Poppins';
 }
 #header{
     background:linear-gradient(100deg, #fff 50%, #F6B400 50%);
@@ -14,6 +14,9 @@ body{
 }
 .logo span{
     color: #F6B400;
+}
+.logo p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .nav-tab {
     position: relative;
@@ -121,16 +124,30 @@ body{
     height: 530px;
     float: left;
     border-radius: 40px;
-    margin-left: 80px;
+    margin-left: 100px;
     margin-top: 50px;
     text-align: center;
     box-shadow: 3px 3px 6px 3px rgb(222, 222, 228);
 }
 .slant{
-   background-color: #F6B400;
-   width: 50px;
-   float: right;
-   transform: rotate(45deg);
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 120px;
+    right: 850px;
+    overflow: hidden;
+}
+.slant span{
+    width: 225px;
+    padding: 15px 0;
+    background-color: #F6B400;
+    display: block;
+    position: relative;
+    top: 30px;
+    left: -25px;
+    transform: rotate(45deg);
+    text-align: center;
+    text-emphasis: strong;
 }
 .burger-pics img{
     height: 200px;
