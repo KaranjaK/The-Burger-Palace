@@ -242,3 +242,16 @@ body{
     border-radius: 30px;
     box-shadow: -5px 30px 150px;
 }
+.footer{
+    height: 300px;
+}
+.footer-nav{
+    font-size: 50px;
+    position: relative;
+    display:flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.footer-nav span{
+    color: #F6B400;
+}
