@@ -93,3 +93,18 @@ button{
 .quality1 h1, .quality2 h1{
     color: brown;
 }
+.menu {
+    width: 100%;
+    height: 700px;
+    margin-top: 30px;
+}
+.menu h1{
+    text-align: center;
+    margin: 0;
+}
+.menu hr{
+    height: 15px;
+    border: none;
+    background: #F6B400;
+    width: 80px;
+}
