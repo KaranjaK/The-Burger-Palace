@@ -30,10 +30,10 @@ body{
     margin-left: 50px;
 }
 .nav-tab hr{
-    height: 15px;
+    height: 10px;
     border: none;
     background: #F6B400;
-    width: 60px;
+    width: 50px;
 }
 .intro{
     margin-left: 50px;
@@ -60,7 +60,7 @@ body{
     font-size: 20px;
 }
 .order img{
-    height: 600px;
+    height: 500px;
     position: relative;
     float: right;
     margin-top: -300px;
@@ -71,11 +71,13 @@ body{
    height: 700px;
    background-color:ghostwhite;
    align-content: center;
+   display: flex;
 }
 .quality1{
+    display: flex;
+    flex-direction: column;
     width: 300px;
     height: 300px;
-    float: left;
     border: 1px solid brown;
     border-radius: 10px;
     margin-left: 100px;
@@ -83,9 +85,10 @@ body{
     text-align: center;
 }
 .quality2{
+    display: flex;
+    flex-direction: column;
     width: 300px;
     height: 350px;
-    float: left;
     border: 1px solid brown;
     border-radius: 10px;
     margin-left: 60px;
